@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Link href="/notifications">Get Notifications</Link>
+      <Link href="/(auth)/login">Sign In</Link>
     </View>
   );
 }
